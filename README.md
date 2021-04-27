@@ -1,3 +1,3 @@
 # Discord Mini Service Bots
 
-Adding by Apr 31st
+Adding by June 20th
