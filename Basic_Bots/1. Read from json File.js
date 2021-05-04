@@ -1,6 +1,6 @@
 // The demo config.json file used is in the Basic_Bots folder
 
-const config = require('./config.json');
+const config = require('./1config.json');
 client.config = config;
 
 let listOfItems = [], specialItems = [];
