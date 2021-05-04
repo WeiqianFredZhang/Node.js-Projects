@@ -1,4 +1,4 @@
-// This demo is based on Poketwo's pokedex, the logic should apply to elsewhere, too!
+// This demo is based on Poketwo's pokedex, but the logic can apply to elsewhere.
 
 const Discord = require("discord.js");
 const fs = require("fs-extra");
