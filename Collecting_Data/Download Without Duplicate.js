@@ -1,4 +1,4 @@
-// This demo is used on Poketwo Discord bot for simplicity
+// This demo is used on the Poketwo Discord bot for simplicity
 
 const Discord = require("discord.js");
 const fs = require("fs-extra");
