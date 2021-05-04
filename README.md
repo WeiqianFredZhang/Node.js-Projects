@@ -1,3 +1,3 @@
-# Java Script Projects
+# My Node.js Projects
 
 Adding by June 20th
