@@ -4,4 +4,4 @@
 
 - Read from env File.js requires npm install dotenv
 
-- 0 depencies on everything else
+- 0 dependency on everything else
