@@ -1,7 +1,7 @@
 # Cool Node.js Projects
 
 #### Downloads
-- I use [vscode](https://code.visualstudio.com/) and [Node.js](https://nodejs.org/en/) to code in JS
+- I use [Vscode](https://code.visualstudio.com/) and [Node.js](https://nodejs.org/en/) to code in JS
 
 #### IMPORTANT
 - Those projects are public, but please don't republish them!
